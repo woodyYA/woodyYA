@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yotsawin Angkhasaen
 ===========================================================================================================================================
 
-Front-end Developer
+Front-end Developer & UX/UI Designer
 -------------------
 
 I graduated in Bachelor of Computer Science at Khon Kaen University. I'm eager to learn new things to improve myself. I started with HTML, CSS and JavaScript, And now i've been learning React.js for 2 months.
